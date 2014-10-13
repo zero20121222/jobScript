@@ -1,0 +1,20 @@
+{
+  "name": "dumpCount",
+  "description": "dumpCount app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.x",
+    "redis": "x.x",
+    "mysql": "2.x",
+    "step" : "x.x",
+    "async": "x.x"
+  },
+  "main": "dumpCount.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MichaelZhao",
+  "license": "ISC"
+}
